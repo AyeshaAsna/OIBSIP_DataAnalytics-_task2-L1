@@ -6,7 +6,7 @@ Customer segmentation analysis on e-commerce data to group customers based on pu
 To analyze customer purchasing behavior and segment customers into distinct groups using clustering techniques. This helps businesses understand customer patterns and design targeted marketing strategies.
 
 ## Dataset
-Dataset Link: uploaded as ifood_df
+Dataset Link: ifood_df.csv
 
 The dataset contains customer information such as purchase history, spending behavior, and other relevant attributes used for segmentation.
 
